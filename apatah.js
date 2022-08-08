@@ -10,6 +10,10 @@ const mahasiswa = {
   mhs3{
     nama : "Dimas Ramadhan",
     npm  : 28411011
+  },
+  mhs4{
+    nama : "Ridwan Alamsyah",
+    npm  : 37411011
   }
 }
 
